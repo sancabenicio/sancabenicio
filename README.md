@@ -6,52 +6,61 @@
 <p align="center">
   <img src="https://img.shields.io/badge/BackEnd-NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/FrontEnd-Next.js-black?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Mobile-Flutter-blue?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Blockchain-Solana-4300db?style=for-the-badge&logo=solana"/>
-  <img src="https://img.shields.io/badge/DB-Prisma-3982ce?style=for-the-badge&logo=prisma"/>
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um jovem Engenheiro Informático com grande paixão por **desenvolvimento fullstack** e tecnologias **Web3**. Recentemente concluí um estágio como **Junior Software Engineer** na **DAX - Digital Assets Explorer**, onde trabalhei com:
+Sou um Engenheiro Informático apaixonado por desenvolvimento **fullstack**, **mobile** e soluções baseadas em **blockchain**. Tenho experiência prática com desenvolvimento de aplicações complexas, microsserviços e soluções Web3. Concluí recentemente um estágio técnico na **DAX - Digital Assets Explorer**, onde atuei como:
 
-- 🔗 Integração com a blockchain **Solana**
-- 📦 Análise e parsing de transações (SPL Tokens, swaps, PDAs, instruções personalizadas)
-- 🧠 Desenvolvimento de microsserviços com **NestJS**, **TypeScript**, **Prisma ORM** e **Helius API**
-- 📊 Criação de um pipeline ETL robusto para auditoria on-chain e conformidade MiCA
+- 👨‍💻 **Junior Software Engineer**
+- 💡 Desenvolvimento de microserviços com NestJS, TypeScript e Prisma
+- 🔗 Integração com a blockchain Solana usando RPC, Helius API e PDAs
+- 📊 Desenvolvimento de pipelines ETL para auditoria e conformidade com MiCA
 
 ---
 
 ## ✨ Projetos em Destaque
 
 ### 📱 No Bindi
-Plataforma mobile de intermediação de compra e venda (tipo OLX), com foco no mercado da Guiné-Bissau. Permite criar anúncios, fazer marcações, contactar vendedores e muito mais.
+Plataforma mobile de compra e venda local com sistema de anúncios, marcações, notificações e pagamentos.
 
 ### 🎫 Baloba Ticket
-Sistema completo de gestão de eventos e bilhetes eletrónicos:
-- Backoffice com aprovação de eventos
-- Validação de bilhetes por QR Code
-- Integração com Stripe para pagamentos
-- Painel para organizadores e administradores
+Sistema completo de gestão de eventos com emissão de bilhetes digitais e validação por QR Code. Backoffice completo e integração com Stripe.
 
-> Estes projetos estão privados, mas demonstram um alto nível técnico e foco em usabilidade para contextos reais.
+> Ambos os projetos são privados, mas demonstram domínio técnico avançado em ambientes de produção.
 
 ---
 
-## 🧠 Competências Técnicas
+## 🛠️ Competências Técnicas
 
-| Categoria        | Tecnologias                                                              |
-|------------------|--------------------------------------------------------------------------|
-| **Linguagens**   | TypeScript, JavaScript, SQL                                              |
-| **Frontend**     | Next.js, React, Tailwind CSS, Shadcn UI                                  |
-| **Backend**      | NestJS, Express.js, Node.js                                              |
-| **Base de Dados**| PostgreSQL, Prisma ORM, Sequelize                                        |
-| **Mobile**       | React Native, Expo                                                       |
-| **Blockchain**   | Solana, Web3.js, Helius API, RPC, PDAs, Decoding de Instruções           |
-| **DevOps**       | Docker, GitHub Actions, Vercel, Railway                                  |
-| **Outros**       | Firebase, i18n, Stripe, REST APIs, GraphQL                               |
+### 💻 Frontend Development
+React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS
+
+### 🔙 Backend Development
+.NET, Django, NestJS, Spring Boot, Node.js, RESTful APIs, JWT
+
+### 🗄️ Bases de Dados
+PostgreSQL, SQL, MongoDB, ROOM, SQLite
+
+### 📱 Mobile Development
+Flutter, Kotlin, Jetpack Compose
+
+### ⚙️ Ferramentas & Metodologias
+Scrum, Git, GitHub, GitLab, Docker, Linux, SCM Plan
+
+### 🔁 Automação & BPM
+Camunda BPMN
+
+### 🧑‍💻 Linguagens de Programação
+C#, C, Python
+
+### 🧩 Outras Skills
+Sockets, Agile Methodologies, Blockchain, JWT, RabbitMQ
 
 ---
 
