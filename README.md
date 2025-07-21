@@ -65,9 +65,16 @@ Atualmente foco-me em:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sancabenicio&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=radical" width="45%" />
+  <!-- Estatísticas principais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sancabenicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+  <!-- Streak (dias seguidos de contribuição) -->
+  <img src="https://streak-stats.demolab.com/?user=sancabenicio&theme=tokyonight&hide_border=true" width="96%" />
 </div>
+
 
 ⚠️ **Nota**: Algumas contribuições em repositórios privados de organizações e pessoas não aparecem nas estatísticas.
 
