@@ -1,5 +1,3 @@
-melhe o disigner 
-
 <h1 align="center">👨🏽‍💻 Benício Sanca</h1>
 
 <p align="center">
