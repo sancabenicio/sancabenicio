@@ -63,8 +63,8 @@ Atualmente foco-me em:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benicio-Sanca&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benicio-Sanca&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sancabenicio&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=radical" width="45%" />
 </div>
 
 ⚠️ **Nota**: Algumas contribuições em repositórios privados de organizações não aparecem nas estatísticas.
