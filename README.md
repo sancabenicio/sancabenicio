@@ -62,6 +62,7 @@ Atualmente foco-me em:
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -70,10 +71,9 @@ Atualmente foco-me em:
 
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-  <!-- Streak (dias seguidos de contribuição) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sancabenicio&theme=tokyonight&hide_border=true" width="96%" />
 </div>
+-->
+
 
 
 ⚠️ **Nota**: Algumas contribuições em repositórios privados de organizações e pessoas não aparecem nas estatísticas.
