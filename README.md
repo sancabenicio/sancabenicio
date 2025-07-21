@@ -62,7 +62,6 @@ Atualmente foco-me em:
 
 ---
 
-<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -72,7 +71,7 @@ Atualmente foco-me em:
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
--->
+
 
 
 
