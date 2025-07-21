@@ -42,8 +42,8 @@ Atualmente foco-me em:
 
 | Projeto         | Descrição                                                                 |
 |----------------|---------------------------------------------------------------------------|
-| **No Bindi**    | Plataforma de intermediação para compra e venda de produtos na Guiné-Bissau, com suporte a leilões, verificação via telemóvel e sistema de reputação. |
-| **Baloba Ticket** | Sistema completo de bilhética com validação via QR Code, gestão de eventos, painel administrativo e suporte a pagamentos. |
+| **No Bindi**    | Plataforma mobile de intermediação de compra e venda (tipo OLX), com foco no mercado da Guiné-Bissau. Permite criar anúncios, contactar vendedores através de mensagem dentro do app e muito mais. |
+| **Baloba Ticket** | Sistema completo de bilheteria com validação via QR Code, gestão de eventos, painel administrativo e suporte a pagamentos. |
 
 ---
 
