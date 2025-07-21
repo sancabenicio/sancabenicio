@@ -1,85 +1,81 @@
-<h1 align="center">Olá 👋, eu sou o Benício Sanca</h1>
-<h3 align="center">Engenheiro Informático | Fullstack Developer | Blockchain Enthusiast</h3>
-
----
+<h1 align="center">👨🏽‍💻 Benício Sanca</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BackEnd-NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FrontEnd-Next.js-black?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Mobile-Flutter-blue?style=for-the-badge&logo=flutter"/>
-  <img src="https://img.shields.io/badge/Blockchain-Solana-4300db?style=for-the-badge&logo=solana"/>
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-00FF9F?style=flat&logo=solana&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-000000?style=flat&logo=web3dotjs&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+### 🚀 Sobre mim
 
-Sou um Engenheiro Informático apaixonado por desenvolvimento **fullstack**, **mobile** e soluções baseadas em **blockchain**. Tenho experiência prática com desenvolvimento de aplicações complexas, microsserviços e soluções Web3. Concluí recentemente um estágio técnico na **DAX - Digital Assets Explorer**, onde atuei como:
+Sou um **Engenheiro Informático** apaixonado por desenvolvimento de aplicações web e integração com tecnologias blockchain. Gosto de enfrentar desafios técnicos, construir soluções úteis e entregar produtos com impacto real.
 
-- 👨‍💻 **Junior Software Engineer**
-- 💡 Desenvolvimento de microserviços com NestJS, TypeScript e Prisma
-- 🔗 Integração com a blockchain Solana usando RPC, Helius API e PDAs
-- 📊 Desenvolvimento de pipelines ETL para auditoria e conformidade com MiCA
+Atualmente foco-me em:
 
----
-
-## ✨ Projetos em Destaque
-
-### 📱 No Bindi
-Plataforma mobile de compra e venda local com sistema de anúncios, marcações, notificações e pagamentos.
-
-### 🎫 Baloba Ticket
-Sistema completo de gestão de eventos com emissão de bilhetes digitais e validação por QR Code. Backoffice completo e integração com Stripe.
-
-> Ambos os projetos são privados, mas demonstram domínio técnico avançado em ambientes de produção.
+- Microsserviços com **NestJS**
+- Integração com **Solana Blockchain**
+- Desenvolvimento de **apps completas** para contextos reais
 
 ---
 
-## 🛠️ Competências Técnicas
+### 🧠 Experiência em Destaque
 
-### 💻 Frontend Development
-React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS
+#### 🧪 Estágio como Junior Software Engineer na DAX - Digital Assets Explorer
 
-### 🔙 Backend Development
-.NET, Django, NestJS, Spring Boot, Node.js, RESTful APIs, JWT
-
-### 🗄️ Bases de Dados
-PostgreSQL, SQL, MongoDB, ROOM, SQLite
-
-### 📱 Mobile Development
-Flutter, Kotlin, Jetpack Compose
-
-### ⚙️ Ferramentas & Metodologias
-Scrum, Git, GitHub, GitLab, Docker, Linux, SCM Plan
-
-### 🔁 Automação & BPM
-Camunda BPMN
-
-### 🧑‍💻 Linguagens de Programação
-C#, C, Python
-
-### 🧩 Outras Skills
-Sockets, Agile Methodologies, Blockchain, JWT, RabbitMQ
+- 🔗 Integração completa com a blockchain **Solana** usando `Web3.js`, `RPC` e `NestJS`
+- 🧠 Desenvolvimento de **parsers avançados** de transações para rastrear swaps, transferências e interações com AMMs (Raydium, Orca, Serum)
+- 🧰 Implementação de **serviços robustos** com suporte a caching, retries e backoff para extração de dados on-chain
+- 🔒 Conformidade com **MiCA** (Mercados de Criptoativos) e integração com a API do **DAX Ledger**
+- 📄 Documentação técnica completa com foco em auditoria, arquitetura modular e sincronização incremental
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Projetos em Destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benicio-Sanca&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benicio-Sanca&layout=compact&theme=tokyonight"/>
-</p>
+> 🛑 Repositórios Privados – Contacta-me para demonstração.
 
----
-
-## 📫 Contacto
-
-📩 Email: **beniciosanca@gmail.com**  
-🌐 LinkedIn: [linkedin.com/in/benicio-sanca](https://www.linkedin.com/in/benicio-sanca/)
+| Projeto         | Descrição                                                                 |
+|----------------|---------------------------------------------------------------------------|
+| **No Bindi**    | Plataforma de intermediação para compra e venda de produtos na Guiné-Bissau, com suporte a leilões, verificação via telemóvel e sistema de reputação. |
+| **Baloba Ticket** | Sistema completo de bilhética com validação via QR Code, gestão de eventos, painel administrativo e suporte a pagamentos. |
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+### 🧰 Tecnologias & Ferramentas
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Solana](https://img.shields.io/badge/-Solana-00FF9F?style=flat&logo=solana&logoColor=black)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=ethereum)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Benicio-Sanca&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benicio-Sanca&layout=compact&theme=radical" width="45%" />
+</div>
+
+⚠️ **Nota**: Algumas contribuições em repositórios privados de organizações não aparecem nas estatísticas.
+
+---
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benicio-sanca/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beniciosanca@gmail.com)
+
+---
+
+_Obrigado por visitares o meu perfil!_ 🧡
