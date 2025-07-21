@@ -72,7 +72,7 @@ Atualmente foco-me em:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
   <!-- Streak (dias seguidos de contribuição) -->
-  <img src="https://streak-stats.demolab.com/?user=sancabenicio&theme=tokyonight&hide_border=true" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sancabenicio&theme=tokyonight&hide_border=true" width="96%" />
 </div>
 
 
