@@ -67,7 +67,7 @@ Atualmente foco-me em:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=radical" width="45%" />
 </div>
 
-⚠️ **Nota**: Algumas contribuições em repositórios privados de organizações não aparecem nas estatísticas.
+⚠️ **Nota**: Algumas contribuições em repositórios privados de organizações e pessoas não aparecem nas estatísticas.
 
 ---
 
