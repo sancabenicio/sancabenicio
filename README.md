@@ -1,4 +1,7 @@
+melhe o disigner 
+
 <h1 align="center">👨🏽‍💻 Benício Sanca</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
@@ -9,42 +12,72 @@
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
-Sou um **Engenheiro Informático** com paixão por desenvolvimento web moderno e integração com tecnologias blockchain. Gosto de construir produtos úteis, enfrentar desafios técnicos e entregar soluções com impacto real.
+Sou um **Engenheiro Informático** apaixonado por desenvolvimento de aplicações web e integração com tecnologias blockchain. Gosto de enfrentar desafios técnicos, construir soluções úteis e entregar produtos com impacto real.
 
-🎯 Atualmente foco-me em:
+Atualmente foco-me em:
 
 - Microsserviços com **NestJS**
 - Integração com **Solana Blockchain**
-- Desenvolvimento de **aplicações completas** com propósito real
+- Desenvolvimento de **apps completas** para contextos reais
 
 ---
 
-## 🧠 Experiência Profissional
+### 🧠 Experiência em Destaque
 
-### 🧪 Estágio como Junior Software Engineer na DAX - Digital Assets Explorer
+#### 🧪 Estágio como Junior Software Engineer na DAX - Digital Assets Explorer
 
-- 🔗 Integração com a blockchain **Solana** usando `Web3.js`, `NestJS` e `RPC`
-- 🧠 Criação de **parsers avançados** para transações (swaps, AMMs, SPL tokens)
-- ⚙️ Desenvolvimento de serviços resilientes com **caching**, retries e backoff
-- 🔒 Cumprimento de requisitos **MiCA** (Mercados de Criptoativos)
-- 📄 Documentação técnica voltada para auditoria e sincronização incremental
-
----
-
-## 💼 Projetos em Destaque
-
-> 🔐 *Repositórios Privados – Contacta-me para demonstração.*
-
-| 🧩 Projeto         | 📝 Descrição                                                                 |
-|-------------------|------------------------------------------------------------------------------|
-| **No Bindi**       | Marketplace para produtos e serviços na Guiné-Bissau com leilões, reputação e verificação por SMS. |
-| **Baloba Ticket**  | Plataforma de bilhética com QR Code, gestão de eventos e sistema de pagamentos integrado. |
+- 🔗 Integração completa com a blockchain **Solana** usando `Web3.js`, `RPC` e `NestJS`
+- 🧠 Desenvolvimento de **parsers avançados** de transações para rastrear swaps, transferências e interações com AMMs (Raydium, Orca, Serum)
+- 🧰 Implementação de **serviços robustos** com suporte a caching, retries e backoff para extração de dados on-chain
+- 🔒 Conformidade com **MiCA** (Mercados de Criptoativos) e integração com a API do **DAX Ledger**
+- 📄 Documentação técnica completa com foco em auditoria, arquitetura modular e sincronização incremental
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+### 💼 Projetos em Destaque
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=fla
+> 🛑 Repositórios Privados – Contacta-me para demonstração.
+
+| Projeto         | Descrição                                                                 |
+|----------------|---------------------------------------------------------------------------|
+| **No Bindi**    | Plataforma de intermediação para compra e venda de produtos na Guiné-Bissau, com suporte a leilões, verificação via telemóvel e sistema de reputação. |
+| **Baloba Ticket** | Sistema completo de bilhética com validação via QR Code, gestão de eventos, painel administrativo e suporte a pagamentos. |
+
+---
+
+### 🧰 Tecnologias & Ferramentas
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Solana](https://img.shields.io/badge/-Solana-00FF9F?style=flat&logo=solana&logoColor=black)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=ethereum)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sancabenicio&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=radical" width="45%" />
+</div>
+
+⚠️ **Nota**: Algumas contribuições em repositórios privados de organizações e pessoas não aparecem nas estatísticas.
+
+---
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benicio-sanca/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beniciosanca@gmail.com)
+
+---
+
+_Obrigado por visitares o meu perfil!_ 🧡
