@@ -10,78 +10,79 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Sobre Mim
 
-Sou um **Engenheiro Informático** apaixonado por desenvolvimento de aplicações web e integração com tecnologias blockchain. Gosto de enfrentar desafios técnicos, construir soluções úteis e entregar produtos com impacto real.
+Sou um **Engenheiro Informático** com paixão por construir soluções úteis e escaláveis. Tenho experiência em desenvolvimento **Full-Stack** com foco em **blockchain (Solana)** e **microsserviços backend com NestJS**.
 
-Atualmente foco-me em:
+🛠️ Curioso por natureza, gosto de enfrentar desafios técnicos reais e entregar valor com impacto direto em produtos e pessoas.
 
-- Microsserviços com **NestJS**
-- Integração com **Solana Blockchain**
-- Desenvolvimento de **apps completas** para contextos reais
+Atualmente concentro-me em:
 
----
-
-### 🧠 Experiência em Destaque
-
-#### 🧪 Estágio como Junior Software Engineer na DAX - Digital Assets Explorer
-
-- 🔗 Integração completa com a blockchain **Solana** usando `Web3.js`, `RPC` e `NestJS`
-- 🧠 Desenvolvimento de **parsers avançados** de transações para rastrear swaps, transferências e interações com AMMs (Raydium, Orca, Serum)
-- 🧰 Implementação de **serviços robustos** com suporte a caching, retries e backoff para extração de dados on-chain
-- 🔒 Conformidade com **MiCA** (Mercados de Criptoativos) e integração com a API do **DAX Ledger**
-- 📄 Documentação técnica completa com foco em auditoria, arquitetura modular e sincronização incremental
+- 🧩 Arquiteturas distribuídas com **NestJS + PostgreSQL + Docker**
+- 🔗 Integrações com a **Blockchain Solana (RPC, Web3.js, SDKs)**
+- 🧪 Desenvolvimento de **parsers on-chain** e **sistemas de rastreamento de ativos digitais**
+- 🔒 Aplicações compatíveis com **MiCA** e auditoráveis
 
 ---
 
-### 💼 Projetos em Destaque
+### 💼 Experiência Relevante
 
-> 🛑 Repositórios Privados – Contacta-me para demonstração.
+#### 👨🏽‍💻 Estágio | Junior Software Engineer – DAX (Digital Assets Explorer)
 
-| Projeto         | Descrição                                                                 |
-|----------------|---------------------------------------------------------------------------|
-| **No Bindi**    | Plataforma mobile de intermediação de compra e venda (tipo OLX), com foco no mercado da Guiné-Bissau. Permite criar anúncios, contactar vendedores através de mensagem dentro do app e muito mais. |
-| **Baloba Ticket** | Sistema completo de bilheteria com validação via QR Code, gestão de eventos, painel administrativo e suporte a pagamentos. |
+- Desenvolvi parsers avançados para a blockchain **Solana**, com foco em transações DeFi, AMMs e transferências
+- Criei serviços resilientes com **retries automáticos, caching e sincronização incremental**
+- Documentei APIs internas com foco em **auditorias e arquitetura limpa**
+- Contribuí para conformidade com o regulamento **MiCA** e integrações com a **DAX Ledger API**
+
+---
+
+### 🔥 Projetos em Destaque
+
+> 🛑 Alguns repositórios são privados. Contacta-me para acesso ou demonstração.
+
+| Projeto          | Descrição                                                                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| **No Bindi**     | Plataforma mobile para compra e venda tipo OLX, focada no mercado da Guiné-Bissau. Inclui chat interno e sistema de anúncios com imagens. |
+| **Baloba Ticket**| Sistema completo de bilheteira com QR Code, painel admin e validação em tempo real. Ideal para eventos locais e culturais.               |
 
 ---
 
 ### 🧰 Tecnologias & Ferramentas
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Solana](https://img.shields.io/badge/-Solana-00FF9F?style=flat&logo=solana&logoColor=black)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=ethereum)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<div align="center">
+
+| Backend       | Frontend       | Blockchain   | DevOps         | Extras          |
+|---------------|----------------|--------------|----------------|-----------------|
+| NestJS        | React          | Solana RPC   | Docker         | Figma           |
+| TypeScript    | Next.js        | Web3.js      | Prisma         | Git/GitHub      |
+| PostgreSQL    | Tailwind CSS   | SPL Tokens   | GitHub Actions | Insomnia/Postman|
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Estatísticas principais -->
   <img src="https://github-readme-stats.vercel.app/api?username=sancabenicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
-
-  <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-
-
-
-⚠️ **Nota**: Algumas contribuições em repositórios privados de organizações e pessoas não aparecem nas estatísticas.
+> ⚠️ Nota: Estatísticas podem não refletir contribuições privadas em organizações e clientes.
 
 ---
 
-### 📫 Contacto
+### 📫 Contacta-me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benicio-sanca/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beniciosanca@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/benicio-sanca/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:beniciosanca@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-_Obrigado por visitares o meu perfil!_ 🧡
+<p align="center">🧡 _Obrigado por visitares o meu perfil!_</p>
