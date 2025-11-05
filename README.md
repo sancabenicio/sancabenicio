@@ -12,38 +12,38 @@
 
 ### 🚀 Sobre Mim
 
-Sou um **Engenheiro Informático** com paixão por construir soluções úteis e escaláveis. Tenho experiência em desenvolvimento **Full-Stack** com foco em **blockchain (Solana)** e **microsserviços backend com NestJS**.
+Sou **Engenheiro Informático** com paixão por transformar ideias em soluções funcionais e escaláveis.  
+Tenho experiência em **desenvolvimento Full-Stack**, com foco em **microsserviços backend (NestJS)** e **integrações blockchain (Solana)**.
 
-🛠️ Curioso por natureza, gosto de enfrentar desafios técnicos reais e entregar valor com impacto direto em produtos e pessoas.
+🧠 Gosto de resolver problemas complexos, otimizar sistemas e criar software que gera impacto real.
 
 Atualmente concentro-me em:
-
 - 🧩 Arquiteturas distribuídas com **NestJS + PostgreSQL + Docker**
-- 🔗 Integrações com a **Blockchain Solana (RPC, Web3.js, SDKs)**
+- 🔗 Integrações avançadas com a **Blockchain Solana (RPC, Web3.js, SDKs)**
 - 🧪 Desenvolvimento de **parsers on-chain** e **sistemas de rastreamento de ativos digitais**
-- 🔒 Aplicações compatíveis com **MiCA** e auditoráveis
+- 🔒 Aplicações compatíveis com **MiCA** e auditáveis
 
 ---
 
-### 💼 Experiência Relevante
+### 💼 Experiência
 
-#### 👨🏽‍💻 Estágio | Junior Software Engineer – DAX (Digital Assets Explorer)
+#### 👨🏽‍💻 Estágio | Junior Software Engineer — DAX (Digital Assets Explorer)
 
-- Desenvolvi parsers avançados para a blockchain **Solana**, com foco em transações DeFi, AMMs e transferências
-- Criei serviços resilientes com **retries automáticos, caching e sincronização incremental**
-- Documentei APIs internas com foco em **auditorias e arquitetura limpa**
-- Contribuí para conformidade com o regulamento **MiCA** e integrações com a **DAX Ledger API**
+- Desenvolvi **parsers avançados** para a blockchain **Solana**, focados em transações DeFi, AMMs e transferências SPL/SOL  
+- Criei **serviços resilientes** com *retries automáticos*, *caching* e *sincronização incremental*  
+- Documentei **APIs internas** com ênfase em arquitetura limpa e auditoria de dados  
+- Contribuí para a **conformidade com o regulamento MiCA** e integração com a **DAX Ledger API**
 
 ---
 
 ### 🔥 Projetos em Destaque
 
-> 🛑 Alguns repositórios são privados. Contacta-me para acesso ou demonstração.
+> 🛑 Alguns repositórios são **privados**. Contacta-me para acesso ou demonstração.
 
-| Projeto          | Descrição                                                                                                                                  |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| **No Bindi**     | Plataforma mobile para compra e venda tipo OLX, focada no mercado da Guiné-Bissau. Inclui chat interno e sistema de anúncios com imagens. |
-| **Baloba Ticket**| Sistema completo de bilheteira com QR Code, painel admin e validação em tempo real. Ideal para eventos locais e culturais.               |
+| Projeto           | Descrição                                                                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| **No Bindi**      | Plataforma mobile para compra e venda tipo OLX, focada no mercado da Guiné-Bissau. Inclui chat interno e sistema de anúncios com imagens. |
+| **Baloba Ticket** | Sistema completo de bilheteira com QR Code, painel admin e validação em tempo real. Ideal para eventos locais e culturais.                |
 
 ---
 
@@ -61,14 +61,20 @@ Atualmente concentro-me em:
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sancabenicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sancabenicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Atividade%20no%20GitHub" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" 
+    width="48%" 
+  />
 </div>
 
-> ⚠️ Nota: Estatísticas podem não refletir contribuições privadas em organizações e clientes.
+> ⚠️ *As estatísticas incluem commits e contribuições em repositórios privados.*
 
 ---
 
