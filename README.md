@@ -1,6 +1,6 @@
 <!-- Cabeçalho com animação -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=👋+Olá%2C+sou+o+Benício+Sanca;Engenheiro+Informático;Apaixonado+por+Backend+e+Blockchain" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=👋+Olá%2C+sou+o+Benício+Sanca;Engenheiro+Informático;Apaixonado+por+Backend+e+Blockchain" alt="Typing Animation" />
 </div>
 
 ---
@@ -21,19 +21,21 @@ Procuro constantemente otimizar performance, arquitetura e clareza no código.
 ### 📊 Estatísticas GitHub
 <div align="center">
 
-  <!-- Estatísticas principais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BenicioSanca&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" height="180em" />
+  <!-- Estatísticas principais (usa o teu endpoint) -->
+  <img src="https://github-readme-stats-flame-one-83.vercel.app/api?username=sancabenicio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" height="180em" />
 
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenicioSanca&layout=compact&theme=github_dark&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats-flame-one-83.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="180em" />
 
 </div>
+
+> ⚠️ Nota: Estatísticas podem não refletir contribuições privadas em organizações e clientes.
 
 ---
 
 ### 🚀 Contribuição e Atividade
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenicioSanca&theme=github-dark&hide_border=true&area=true" alt="Gráfico de Atividade GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sancabenicio&theme=github-dark&hide_border=true&area=true" alt="Gráfico de Atividade GitHub" />
 </div>
 
 ---
