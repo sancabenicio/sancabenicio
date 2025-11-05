@@ -1,7 +1,11 @@
 <!-- Cabeçalho com animação -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=👋+Olá%2C+sou+o+Benício+Sanca;Engenheiro+Informático;Apaixonado+por+Backend+e+Blockchain" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0078FF&center=true&vCenter=true&width=700&lines=Ben%C3%ADcio%20Sanca;Engenheiro%20Inform%C3%A1tico;Backend%20%26%20Blockchain"
+    alt="Benício Sanca — Engenheiro Informático"
+  />
 </div>
+
 
 ---
 
