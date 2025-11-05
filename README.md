@@ -37,11 +37,12 @@ Procuro constantemente otimizar performance, arquitetura e clareza no código.
 
 ---
 
+<!--
 ### 🚀 Contribuição e Atividade
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sancabenicio&theme=github-dark&hide_border=true&area=true" alt="Gráfico de Atividade GitHub" />
 </div>
-
+-->
 ---
 
 <p align="center">
