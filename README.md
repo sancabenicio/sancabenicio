@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Sou estudante de Engenharia Informática na **ESTG - Escola Superior de Tecnologia e Gestão | Politécnico do Porto**, atualmente focado em desenvolvimento **backend**, **blockchain** (Solana) e **integração de sistemas distribuídos**.  
+Licenciado em Engenharia Informática na **ESTG - Escola Superior de Tecnologia e Gestão | Politécnico do Porto**, atualmente focado em desenvolvimento **backend**, **blockchain** (Solana) e **integração de sistemas distribuídos**.  
 Procuro constantemente otimizar performance, arquitetura e clareza no código.
 
 ---
