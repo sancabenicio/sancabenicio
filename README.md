@@ -26,10 +26,16 @@ Procuro constantemente otimizar performance, arquitetura e clareza no código.
 <div align="center">
 
   <!-- Estatísticas principais (usa o teu endpoint) -->
-  <img src="https://github-readme-stats-flame-one-83.vercel.app/api?username=sancabenicio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" height="180em" />
+<img
+  src="https://github-readme-stats-ab4d.vercel.app/api?username=sancabenicio&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+  height="180em"
+/>
 
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats-flame-one-83.vercel.app/api/top-langs/?username=sancabenicio&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="180em" />
+<img
+  src="https://github-readme-stats-ab4d.vercel.app/api/top-langs?username=sancabenicio&layout=compact&theme=github_dark&hide_border=true&count_private=true"
+  height="180em"
+/>
+
 
 </div>
 
