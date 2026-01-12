@@ -23,9 +23,8 @@ Procuro constantemente otimizar performance, arquitetura e clareza no código.
 ---
 
 ### 📊 Estatísticas GitHub
-<div align="center">
+<!--<div align="center">
 
-  <!-- Estatísticas principais (usa o teu endpoint) -->
 <img
   src="https://github-readme-stats-ab4d.vercel.app/api?username=sancabenicio&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
   height="180em"
@@ -37,7 +36,7 @@ Procuro constantemente otimizar performance, arquitetura e clareza no código.
 />
 
 
-</div>
+</div>-->
 
 
 > ⚠️ Nota: Estatísticas podem não refletir contribuições privadas em organizações e clientes.
